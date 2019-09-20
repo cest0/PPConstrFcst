@@ -1,3 +1,5 @@
+![Energy illustration](./Pix/stackedpower.png)
+
 # Powerplant constraints forecast with Machine Learning
 
 ## Table of contents
@@ -12,4 +14,4 @@ This is a multivariate regression problem whose predictions must respect a numbe
 ## Technologies
 Project is implemented in Jupyter notebooks using Python.
 	
-![Energy illustration](./Pix/stackedpower.png)
+
