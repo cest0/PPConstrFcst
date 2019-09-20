@@ -7,9 +7,9 @@
 ## General info
 This project aims at forecasting powerplant energy constrains, i.e. minimum energy and maximum power / energy based on historical data using machine learning techniques.
 
-This is a multivariate regression problem whos predictions must respect a number of constrains, which makes it unusual and challenging.
+This is a multivariate regression problem whose predictions must respect a number of constrains, which makes it unusual and challenging.
 	
 ## Technologies
 Project is implemented in Jupyter notebooks using Python.
 	
-![Energy illustration](./pix/stackedpower.png)
+![Energy illustration](./Pix/stackedpower.png)
