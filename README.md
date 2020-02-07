@@ -15,6 +15,6 @@ This is a multivariate regression problem whith a timeseries dimension whose pre
 Check out the project with a [short presentation](https://prezi.com/view/MN8KaQc64dhc0l4obrXZ/), introducing the approach used and obtained results.
 
 ## Technologies
-Project is implemented in Jupyter notebooks using Python.
+Project is implemented in Jupyter notebooks using Python. Main libraries are Pandas, scikit-learn, Keras, matplotlib, LIME.
 	
 
